@@ -1,0 +1,15 @@
+.
+├── app
+│   ├── app.jsx
+│   ├── components
+│   │   └── MainApp.jsx
+│   └── styles
+│       ├── app.scss
+│       └── components
+│           └── _MainApp.scss
+├── package.json
+├── public
+│   ├── bundle.js
+│   └── index.html
+├── understanding-webpack-tree.txt
+└── webpack.config.js
